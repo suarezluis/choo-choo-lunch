@@ -1,8 +1,8 @@
-To deploy;
+# Deployment
 
-```npm run deploy```
+### `npm run deploy`
 or
-```yarn deploy```
+### `yarn deploy`
 
 Deployed version can be found at: 
 

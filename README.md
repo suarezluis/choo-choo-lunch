@@ -1,3 +1,13 @@
+To deploy;
+
+```npm run deploy```
+or
+```yarn deploy```
+
+Deployed version can be found at: 
+
+https://suarezluis.github.io/choo-choo-lunch/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

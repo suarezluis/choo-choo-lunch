@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AASA,gBAJE,WAQF,CAJA,MAGE,YACF","file":"main.19e34edc.chunk.css","sourcesContent":["html {\n  height: 100%;\n}\n\nbody {\n  height: 100%;\n  /* background-color: red; */\n}\n\n.root {\n  height: 100%;\n  /* background-color: yellow; */\n  display: flex;\n}\n"]}
